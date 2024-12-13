@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "white-artwork-444404-k2",
+  "private_key_id": "0fb17c5d1018d190cede391e01758fdc476c2e76",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQC3vj8Y6SoH4PIm\nsu9yMH2dUa+n97WrMXOrlQesNiMnWzux1xa23udGvMUmszfkXLJD280sTJ/tBFAC\nBgp52QLwxsp8B0JZxiAowwmiKyoEZZp4F+WTyExjT47xEFgIDrB8hufNcczVCSth\nIzt/h6b8PGjlxrWH1NPoUjsYkXmGeNmLccNhLydlyp7cwItp4Fn1nRvIssyhbE0/\nZjPjCKHJDsrK7+fHVJFacE6vNWSwvp/T9rUEpRO7WooQTfVr7UF0UXdOAKfWzq9c\n4Ilodc3g+4yPUAPNxXsAOZgLRoc0VOuEQ8xhAltYaCdGMYd+cQgjb5z4USupTOXA\nQk2rhH7PAgMBAAECggEATGdgDmg6MX+AwcXLGoT+XtHuRF6VHMQZ8KGuSJZUZNOj\njW4+hDlJG1l4c4C3f45qFByMgtyz7ZdK+6Rua79o4R0QaqWMGg9wJPMBCP2A4cYs\nBr8NGDgER5F4A1aD/Im7KnTgY8Xr4jQHZUOExKFwNteZ2N4Zcwt1OFglObCYQ2k7\nrhTEzlmQI4CDR9F8TqpSr7B65OzeGc3UmmrbRh99297GglPY8OIEZzXRFnJJKzx4\nrWwoi2Lq+tPlHAlE3aeszCFHWmgqcCHUROi2h3C0qTHzLQgEHf4PafPc1gzvRd9L\nayz5L5sAtlSeF6Amm2Lyp4qtX80lnLnmieCTDquL+QKBgQD89U4YvL4PexFAALHe\n552XYFcyBiIg+KlOizexMiKY4lHlAEOL4bx8MN4mqGZn0NLtNLQwnjDzqugyCf+q\nrZBray7LcBlT9/7S7vtd1raPzUp1lrCsEIqESV5K5H/GRgRT2gm75SsU3izqOwjQ\nayEVPOHLdFaowY9ZpZUq9aQ4mQKBgQC58993pC4Se1toyTJH0qACxHBOr2O5jSJ4\ntK9EbFfxDlZBZWcgpZkVy1oZhRL+kfHVM8yIqPMBm04PaOpiG22rqBXlTMMEQ1M0\nMeoxHXKHwnAABGVfACpbJl62BZ9bYQ6S0pgAMtRC9M9xen6DSnC6jjzySpTGfwCM\nHtFoBr0LpwKBgEXxagOrBH5xT+a7inMQ5eE6UUHSslMdjmraUa7cJvbQ9UX1mbeu\n1hgcxwA3ZgFkmz3daclbpDtr0UIsw5Wk4h7hhxHXUBmIo9wdGkHrIZWHdQQog3dA\nJ5zGUJ0yqyXerEmnKzPZ/NyLRi4J3rkKNh6SM/i2lVOaGZH3F9TGEP9ZAoGAZdvT\njhrN7evKf5SuSS9z3PAzwLZMPyizOEFpPGbIqU+8Kehc3EI5n/mbKh198RqKyMmu\nATHiov+qe8BxmzoBEiVpkQhCTwR+ADpTWYIS6ZC1fxzpVmely/YxrS1ZRFne/MgE\n4R72rJKjSzrZMBvHsjkV43a9Fhodd6Ot+3itd0MCgYBliGRLaJdhfC2yrdzBHLsC\ny2KWKXQRLjFS3Oo0IeMx6sUaLDtT1yTht97nFSGiilVpN3mWxbt91TzyCXKuZlyY\nndhjmuyX6Rwr5rYjd1YJrH6fuFH2WWr71harpbJslqGxocwy7PxdeRbLMICd+Tua\nmFNAQ0ngRy3NM1LEL/GYEw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "ayatsuno-yuuni@white-artwork-444404-k2.iam.gserviceaccount.com",
+  "client_id": "114680090902478417192",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/ayatsuno-yuuni%40white-artwork-444404-k2.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
