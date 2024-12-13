@@ -14,15 +14,7 @@ public class UserStorage {
 
     }
     
- // 파일을 초기화하는 메서드
-    public void clearFile() {
-        try (BufferedWriter writer = new BufferedWriter(new FileWriter(filePath))) {
-            // 파일 내용을 비우기 위해 아무것도 쓰지 않고 닫기
-            System.out.println("파일이 초기화되었습니다.");
-        } catch (IOException e) {
-            System.out.println("파일 초기화 중 오류가 발생했습니다: " + e.getMessage());
-        }
-    }
+ 
 
     // 사용자 정보를 파일에 저장
     public void saveUser(User user) {
@@ -33,6 +25,15 @@ public class UserStorage {
             //CL.main();
         } catch (IOException e) {
             System.out.println("사용자 정보를 저장하는 중 오류가 발생했습니다: " + e.getMessage());
+        }
+    }
+ // 파일을 초기화하는 메서드
+    public void clearFile() {
+        try (BufferedWriter writer = new BufferedWriter(new FileWriter(filePath))) {
+            // 파일 내용을 비우기 위해 아무것도 쓰지 않고 닫기
+            System.out.println("파일이 초기화되었습니다.");
+        } catch (IOException e) {
+            System.out.println("파일 초기화 중 오류가 발생했습니다: " + e.getMessage());
         }
     }
    

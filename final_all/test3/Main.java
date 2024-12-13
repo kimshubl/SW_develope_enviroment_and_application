@@ -1,4 +1,5 @@
 package test3;
+import test3.Main;
 
 import java.util.Scanner;
 

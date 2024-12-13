@@ -1,6 +1,7 @@
 package test3;
 
 import javax.crypto.SecretKey;
+
 import java.util.List;
 import java.util.Scanner;
 
@@ -46,7 +47,7 @@ public class BankApp {
             
             // 로그인 시도 후 성공 시 Main으로 이동
             if (login(users, inputAccount, inputPassword)) {
-                Main.main(args); // Main 클래스의 main 메서드 호출
+            	Main.main(new String[]{}); // Main 클래스의 main 메서드 호출
             }
 
         } catch (Exception e) {
