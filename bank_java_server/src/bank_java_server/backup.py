@@ -8,7 +8,7 @@ SERVICE_ACCOUNT_FILE = "C:\\Users\\minch\\eclipse-workspace\\bank_java_server\\s
 BUCKET_NAME = "2omong_and_marspeople"
 
 # 로컬 디렉토리에서 업로드할 파일 경로
-LOCAL_DIRECTORY = "C:\\Users\\minch\\eclipse-workspace\\bank_java_server\\src\\bank_java_server\\bank_data"
+LOCAL_DIRECTORY = "C:\Users\codbs\Downloads\SW_develope_enviroment_and_application-minchan_final_01_01\SW_develope_enviroment_and_application-minchan_final_01\bank"
 
 def upload_to_gcs(local_directory, bucket_name):
     """지정된 디렉토리의 파일을 GCS로 업로드"""
